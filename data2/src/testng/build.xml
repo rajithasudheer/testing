@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Build-1">
+	<test name="MyResults">
+		<!-- call all the classes by package name -->
+		<classes>
+			<class name="testng.Annotations1"></class>
+			<class name="testng.Testng_Annotations"></class>
+			<class name="testng.secondprogram"></class>
+			<class name="testng.firsttestcase"></class>
+
+
+		</classes>
+
+	</test>
+</suite>
+ 
+
+
+
+
+
+
+
+
+
+
+
